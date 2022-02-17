@@ -1,6 +1,6 @@
 /* Coded by:
 							Manasij Haldar, B.E.-1st Year, CSE_AIML, Chandigarh University.
-							Discord: ✞нεℝØ₵Ḱøℳ∆ηʐ#0762, Language used: C, Concept Used: Linked List.
+							Language used: C, Concept Used: Linked List.
 */
 #include<stdio.h>
 #include<stdlib.h>
