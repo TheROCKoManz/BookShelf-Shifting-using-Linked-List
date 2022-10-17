@@ -1,5 +1,5 @@
 /* Coded by:
-							Manasij Haldar, B.E.-1st Year, CSE_AIML, Chandigarh University.
+							Manasij Haldar, B.E.-3rd Year, CSE_AIML, Chandigarh University.
 							Language used: C, Concept Used: Linked List.
 */
 #include<stdio.h>
